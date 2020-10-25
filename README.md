@@ -4,9 +4,9 @@
 
 This project was created for the DALI Lab API Code Challenge.
 
-This project is a proof of concept that incorporates PokeApi https://pokeapi.co/
+This project is a simple proof of concept that incorporates PokeApi https://pokeapi.co/
 and Twilio https://www.twilio.com/.
-Hosting is provided by https://autocode.com/manage/apps/.
+Hosting is provided by https://autocode.com/.
 This is the first time I have used either PokeApi, Twilio, or Autocode.
 Because it is running the free tiers of Twilio and Autocode, messages are
 marked with Twilio trial information. Additionally, there is a cap on the number
